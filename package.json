@@ -8,6 +8,10 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@types/node": "^18.15.5",
     "nuxt": "^3.3.1"
+  },
+  "dependencies": {
+    "ofetch": "^1.0.1"
   }
 }
